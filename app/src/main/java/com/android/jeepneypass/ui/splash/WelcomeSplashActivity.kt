@@ -1,4 +1,4 @@
-package com.android.jeepneypass.splash
+package com.android.jeepneypass.ui.splash
 
 import android.annotation.SuppressLint
 import android.content.Intent
