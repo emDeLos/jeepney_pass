@@ -2,6 +2,7 @@ package com.android.jeepneypass.ui.register
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.android.jeepneypass.R
 
 class RegisterActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
