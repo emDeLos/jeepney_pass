@@ -3,7 +3,6 @@ package com.android.jeepneypass.ui.register
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import androidx.lifecycle.ViewModelProvider
-import com.android.jeepneypass.R
 import com.android.jeepneypass.databinding.ActivityRegisterBinding
 
 class RegisterActivity : AppCompatActivity() {

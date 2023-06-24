@@ -51,6 +51,6 @@ dependencies {
     implementation 'io.realm.kotlin:library-sync:1.8.0'// Add to use Device Sync
     implementation 'org.jetbrains.kotlinx:kotlinx-coroutines-core:1.6.4' // Add to use coroutines with the SDK
 
-    // ViewModel
-    implementation "androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.1"
+//    // ViewModel
+//    implementation "androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.1"
 }
